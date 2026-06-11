@@ -107,19 +107,19 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: '#0F172A', padding: 24, alignItems: 'center', justifyValue: 'center', justifyContent: 'center' },
-  titulo: { color: '#F97316', fontSize: 28, fontWeight: 'bold', marginBottom: 16 },
+  container: { flex: 1, backgroundColor: '#034403', padding: 24, alignItems: 'center', justifyValue: 'center', justifyContent: 'center' },
+  titulo: { color: '#FFFF00', fontSize: 28, fontWeight: 'bold', marginBottom: 16 },
   placarContainer: { flexDirection: 'row', justifyContent: 'space-between', width: '100%', paddingHorizontal: 16, marginBottom: 24 },
-  placarTexto: { color: '#94A3B8', fontSize: 16, fontWeight: 'bold' },
+  placarTexto: { color: '#fff', fontSize: 16, fontWeight: 'bold' },
   tabuleiro: { width: 320, flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center' },
   carta: { width: 70, height: 70, margin: 5, borderRadius: 8, alignItems: 'center', justifyContent: 'center' },
-  cartaFechada: { backgroundColor: '#F97316' },
-  cartaAberta: { backgroundColor: '#1E293B' },
+  cartaFechada: { backgroundColor: '#FFFF00' },
+  cartaAberta: { backgroundColor: '#257aaf' },
   cartaAcertada: { backgroundColor: '#10B981' },
   cartaTexto: { fontSize: 28 },
   vitoriaContainer: { alignItems: 'center' },
   vitoriaTexto: { color: '#F8FAFC', fontSize: 18, textAlign: 'center', marginBottom: 24 },
-  botao: { backgroundColor: '#F97316', paddingHorizontal: 32, paddingVertical: 12, borderRadius: 8 },
+  botao: { backgroundColor: '#FFFF00', paddingHorizontal: 32, paddingVertical: 12, borderRadius: 8 },
   botaoVerde: { backgroundColor: '#10B981' },
   botaoTexto: { color: '#fff', fontSize: 16, fontWeight: 'bold' },
 });
