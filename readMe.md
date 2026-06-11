@@ -1,6 +1,6 @@
 # 🧠 Jogo da Memória - React Native & Expo
 
-Este projeto é uma aplicação mobile de Jogo da Memória desenvolvida para fins acadêmicos. O objetivo principal foi explorar o desenvolvimento de interfaces mobile, manipulação de estados no React e componentização.
+Este projeto é uma aplicação mobile de Jogo da Memória desenvolvida para fins acadêmicos. O objetivo principal foi explorar o desenvolvimento de interfaces mobile e manipulação de estados no React.
 
 A aplicação foi construída utilizando **React Native** e o ecossistema **Expo**, permitindo que o jogo rode tanto em dispositivos móveis (Android/iOS) quanto diretamente no navegador (Web).
 
@@ -8,7 +8,7 @@ A aplicação foi construída utilizando **React Native** e o ecossistema **Expo
 
 ## 🌐 Demonstração (Versão Web)
 O projeto está buildado e hospedado na Vercel. Você pode jogar diretamente pelo seu navegador clicando no link abaixo:
-👉 **[CLIQUE AQUI PARA JOGAR](URL_DA_VERCEL_AQUI)**
+👉 **[https://jogo-da-memoria-react-expo.vercel.app/]**
 
 Para ser hospedado na Vercel, por ser uma aplicação que utiliza o Expo para rodar via Android/iOS
 Foi necessário configurar o código através das linhas de comando:
