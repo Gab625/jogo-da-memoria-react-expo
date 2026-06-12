@@ -1,14 +1,13 @@
 {
   "expo": {
-    "name": "JogoDaMemoria",
-    "slug": "JogoDaMemoria",
+    "name": "Meu grande amor",
+    "slug": "meu-grande-amor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +22,8 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "name":"Meu grande amor"
     }
   }
 }
